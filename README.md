@@ -1,4 +1,4 @@
-## Hi there 👋
+## SYSTEM.OUT.PRINTLN("HELLO WORLD");
 ### I'm [Kiprop Kimutai](https://github.com/STARKthegreat)
  
   I am a Mobile Application developer. I am very passionate about programming and design
@@ -8,9 +8,13 @@
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m currently working at HNG as a Mobile Developer. 
   - 📫 How to reach me:  
+
         [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-kimutai-a91209231)
-        [Email](emmanuelkipropkimutai@gmail.com)
+
+        Email: emmanuelkipropkimutai@gmail.com
+
         [WhatsApp](https://wa.me/message/YYYGJXLU3DCXF1)
+
   - 👯 I’m looking to collaborate on any Flutter, Java, Kotlin and Web development Projects. 
 
 
