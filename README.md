@@ -7,7 +7,10 @@
   - 🌱 I’m currently learning Dart makes my heart Flutter 
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m currently working at HNG as a Mobile Developer. 
-  - 📫 How to reach me: julienyange@gmail.com 
+  - 📫 How to reach me:  
+        [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-kimutai-a91209231)
+        [Email](emmanuelkipropkimutai@gmail.com)
+        [WhatsApp](https://wa.me/message/YYYGJXLU3DCXF1)
   - 👯 I’m looking to collaborate on any Flutter, Java, Kotlin and Web development Projects. 
 
 
