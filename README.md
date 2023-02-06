@@ -32,8 +32,9 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 <!-- Badges template - https://github.com/Ileriayo/markdown-badges-->
 
 <details>
-  <summary><b>General Tech knowledge: &nbsp;He his Still learning but no harm to be master of all 😁</b></summary>
+  <summary><b>General Tech knowledge: &nbsp;I am Still learning...</b></summary>
   <br/>
+  <h4>COMPTIA A+ <h4>
 
 ## 🛠️ My favorite tools
 
