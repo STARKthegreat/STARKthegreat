@@ -18,11 +18,6 @@
   - 👯 I’m looking to collaborate on any Flutter, Java, Kotlin and Web development Projects. 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=STARKthegreat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=STARKthegreat&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
-
 <h3 align="left">❤ Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/STARKthegreat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julianasau" /></a></p><br><br>
 
