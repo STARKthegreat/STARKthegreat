@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=He+is+a+Mobile%20developer%20using%20Flutter;%20Life Long +Learner;Learning%20through%20experiences;Always%20learning%20new%20things&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=He+is+a+Mobile%20developer%20using%20Flutter;%20Life%20Long%20Learner;Learning%20through%20experiences;Always%20learning%20new%20things&center=true&width=500&height=45"></a>
 </p>
 
 **Kimutai has spent years facinated by the computer. One day he switched off and on his Dad's computer with issues. Now he writes code and fights bugs.**
