@@ -106,7 +106,7 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-kimutai-a91209231"><img alt="Linkedin" title="Connect with me on linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: emmanuelkipropkimutai@gmail.com"><img alt="Gmail" title="Email me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/STARKthegreat"><img alt="Instagram" title="Connect with me on instagram" src="https://img.shields.io/badge/instagram-%23121011.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/Coder_Stark"><img alt="Instagram" title="Connect with me on instagram" src="https://img.shields.io/badge/instagram-%23121011.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
