@@ -31,8 +31,8 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 
 <!-- Badges template - https://github.com/Ileriayo/markdown-badges-->
 
-<details>
-  <summary><b>General Tech knowledge: &nbsp;I am Still learning...</b></summary>
+
+  <summary><b>General Tech knowledge: </b></summary>
   <br/>
   <h4>COMPTIA A+ <h4>
 
@@ -99,14 +99,13 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 
 </p>
 
-</details>
 
 ### Are you happy with what you see ? Let's connect <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">, I can't wait to say Hi back 🙋‍♂️
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-kimutai-a91209231"><img alt="Linkedin" title="Connect with me on linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: emmanuelkipropkimutai@gmail.com"><img alt="Gmail" title="Email me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/Coder_Stark"><img alt="Instagram" title="Connect with me on instagram" src="https://img.shields.io/badge/instagram-%23121011.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/coder_stark"><img alt="Instagram" title="Connect with me on instagram" src="https://img.shields.io/badge/instagram-%23121011.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
