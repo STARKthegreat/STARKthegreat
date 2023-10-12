@@ -44,10 +44,10 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)&nbsp;\
-![Scratch](https://img.shields.io/badge/Scratch%20-%234D97FF.svg?logo=scratch&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)&nbsp;
+
 </p>
 
 ### 🧰 **Frameworks and libraries**
@@ -96,6 +96,10 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/BLENDER-3D--Model-red)&nbsp;\
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white);
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white);
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white);
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white);
 
 
 </p>
